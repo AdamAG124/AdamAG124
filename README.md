@@ -37,6 +37,8 @@ Con estas tecnologías, busco crear soluciones eficientes y escalables que impul
 
 ## 📈 Estádisticas de GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdamAG124&theme=dark&hide_border=true&locale=es&mode=weekly&card_width=900)](https://git.io/streak-stats)
+#### Estádisticas de repositorios públicos.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamAG124&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAG124&layout=compact)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adam-acuna-gonzalez-459163252)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adam.a.g_25/)
