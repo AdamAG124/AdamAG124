@@ -35,7 +35,8 @@ Apasionado por el desarrollo de soluciones tecnológicas, cuento con experiencia
 
 Con estas tecnologías, busco crear soluciones eficientes y escalables que impulsen el éxito de los proyectos en los que participo.
 
-
+## 📈 Estádisticas de GitHub
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdamAG124&theme=dark&hide_border=true&locale=es&mode=weekly&card_width=900)](https://git.io/streak-stats)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adam-acuna-gonzalez-459163252)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adam.a.g_25/)
