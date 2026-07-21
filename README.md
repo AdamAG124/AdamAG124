@@ -1,7 +1,7 @@
 
 #### Adam Acuña González
 
-*Jefe de operaciones y líder en desarrollo de software, especializado en optimizar procesos corporativos mediante soluciones de software a medida. Altamente proactivo en la implementación de métodos innovadores y mejorados para ejecutar y gestionar procedimientos internos basados en código.*
+*Ejecutivo Técnologico y líder en desarrollo de software, especializado en optimizar procesos corporativos mediante soluciones de software a medida. Altamente proactivo en la implementación de métodos innovadores y mejorados para ejecutar y gestionar procedimientos internos basados en código.*
 
 
 ## 🚀 Acerca de mi
@@ -14,7 +14,7 @@
 
 *Nacido como una pequeña flama, Flameware Technologies encendió mi propósito en la vida y me impulsa a buscar continuamente nuevas formas de innovar en el desarrollo de procesos para los negocios que han depositado su confianza en mí y los que lo harán en el futuro.*
 
-![Logo](https://flamewarecr.com/perfil-de-adam-cortado.jpg)
+![Logo](https://flamewarecr.com/flameware-frontend/assets/img/logo.jpg)
 ## 🛠️ Competencias Profesionales
 
 Apasionado por la tecnología y el desarrollo de soluciones innovadoras, cuento con un amplio conocimiento en Programación Orientada a Objetos, que aplico para crear sistemas robustos y escalables. Tengo experiencia inicial en metodologías ágiles, habiéndome desempeñado como Scrum Master y Product Owner en diversos proyectos, contribuyendo al éxito de equipos con entusiasmo y aprendizaje continuo. Domino el modelo Vista-Controlador (MVC) y poseo conocimientos básicos en estructuras de datos, lo que me permite optimizar procesos y garantizar un código estructurado. Además, implemento arquitecturas modernas como Clean Architecture y Screaming Architecture, enfocándome en desarrollar software mantenible y alineado con las necesidades del negocio.
