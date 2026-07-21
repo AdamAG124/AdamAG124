@@ -36,7 +36,7 @@ Apasionado por el desarrollo de soluciones tecnológicas, cuento con experiencia
 Con estas tecnologías, busco crear soluciones eficientes y escalables que impulsen el éxito de los proyectos en los que participo.
 
 ## 📈 Estádisticas de GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdamAG124&theme=dark&hide_border=true&locale=es&mode=weekly&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=AdamAG124)](https://git.io/streak-stats)
 #### Estádisticas de repositorios públicos.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamAG124&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAG124&layout=compact)
 ## 🔗 Links
